@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.profile:hover h4 .arrowbottom {
+  display: block;
+}
+.profile:hover h4 .arrowright {
+  display: none;
+}
+.profile:hover .lists {
+  display: block;
+}
